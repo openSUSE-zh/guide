@@ -5,3 +5,4 @@ openSUSE 基础设施
    :maxdepth: 2
 
    obs
+   packman
